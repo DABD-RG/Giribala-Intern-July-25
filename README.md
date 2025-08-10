@@ -6,3 +6,17 @@ Transformers (BERT) for intrusion detection. The model is thoroughly evaluated a
 Support Vector Machines, Autoencoders, XGBoost, Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM). BERT-IDS's performance was closely observed 
 across multiple performance metrics (e.g. accuracy, recall, precision), which demonstrated extreme robustness when compared with the values of traditional ML and DL models. 
 The outcomes emphasize the potential of transformer architectures in augmenting the adaptability and flexibility of IDS in the ever-changing cybersecurity environments.
+
+## Datasets Considered
+- CICIDS2017
+- UNSW-NB15
+- NSL-KDD
+
+## Models Trained for Comparison
+- CNN (Convolutional Neural Network)
+- LSTM (Long Short-Term Memory)
+- RF (Random Forest)
+- Autoencoder
+- NB (Naive Bayes)
+- SVM (Support Vector Machine)
+- XGBoost
