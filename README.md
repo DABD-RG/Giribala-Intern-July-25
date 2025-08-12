@@ -5,9 +5,9 @@ Traditional Machine Learning (ML) and Deep Learning (DL) models have shown promi
 In this research, we present BERT-IDS, a transformer-based approach that leverages the contextual understanding power of Bidirectional Encoder Representations from Transformers (BERT) for intrusion detection.
 
 ## Datasets Considered
-- CICIDS2017
-- UNSW-NB15
-- NSL-KDD
+- CICIDS2017 
+- UNSW-NB15 (present in the repo)
+- NSL-KDD (present in the repo)
 
 ## Models Trained for Comparison
 - CNN (Convolutional Neural Network)
